@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Stick",
+      "price": 10.99,
+      "imgUrl": "/images/hockeyStick.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Skates",
+      "price": 119.99,
+      "imgUrl": "/images/skates.jfif"
+    },
+    {
+      "id": 3,
+      "name": "Mouth Guard",
+      "price": 1.05,
+      "imgUrl": "/images/Mouthguard.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tape",
+      "price": 14000,
+      "imgUrl": "/images/tape.jpg"
+    }
+  ]
